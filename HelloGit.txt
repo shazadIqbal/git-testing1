@@ -1,9 +1,4 @@
 my name is shahzad
 hello how are you
 never trust anyone
-<<<<<<< HEAD
-my name is Eiquan
-=======
 My name is Umer
->>>>>>> 3333f8cb919c25fdeb0fdd4afd3f783c50e937f0
-my name is Eiquan
