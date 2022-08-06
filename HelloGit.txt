@@ -1,8 +1,4 @@
 my name is shahzad
 hello how are you
 never trust anyone
-<<<<<<< HEAD
-i am ali
-=======
 My name is Umer
->>>>>>> 7ff2439f4c4221768abedf0ed7ef761fb03642ff
